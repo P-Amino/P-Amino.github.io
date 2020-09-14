@@ -63,7 +63,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "htmltag": "undefined"
+    "htmltag": "undefined",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
