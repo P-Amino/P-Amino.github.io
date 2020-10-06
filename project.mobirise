@@ -63,7 +63,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "htmltag": "<html>",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "cookiesAlert": false
   },
   "pages": {
